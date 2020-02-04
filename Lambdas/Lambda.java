@@ -10,6 +10,7 @@ public class Lambda {
         // BELOW THE SYSTEM OUT CAN BE REPLACED WITH AN OBJECT
         // THE PRINTLN CAN BE REPLACED WITH A METHOD IN SAID OBJ
         // list.forEach(System.out::println);
+        
         list.forEach(s-> System.out.println(s.toLowerCase()));
     }
 }
