@@ -15,5 +15,4 @@ public class Numbers {
         // existing data set, i cant figure out how to do that just yet
         System.out.println("Size " + list.size());
     }
-
 }
